@@ -1,0 +1,6 @@
+{
+  "name": "PuzzlePlay",
+  "description": "Educational kids learning app featuring word spelling puzzles, math safari counting, and memory card matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
